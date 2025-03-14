@@ -1,0 +1,25 @@
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .timeline-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .timeline-container li {
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #222;
+  }
+  
+  .courses-container ul {
+    list-style-type: none;
+  }
+  
+  .courses-container li a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  

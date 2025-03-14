@@ -1,0 +1,18 @@
+.user-details-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.user-details-container form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.user-details-container input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}

@@ -1,1 +1,1 @@
-# ai-mentor
+# career-twin-ai
